@@ -1,0 +1,2352 @@
+SampleID	OriginalDrugName	PreferredDrugName	TreatmentType	Response
+TCGA-3C-AALJ	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-3C-AALJ	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-3C-AALJ	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-3C-AALJ	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-3C-AALK	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-3C-AALK	Herceptin	Trastuzumab	Chemotherapy	[Unknown]
+TCGA-3C-AALK	Carboplatin	Carboplatin	Chemotherapy	[Unknown]
+TCGA-3C-AALK	Trastuzumab	Trastuzumab	Chemotherapy	[Unknown]
+TCGA-4H-AAAK	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-4H-AAAK	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-4H-AAAK	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-5L-AAT0	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-5L-AAT1	Letrozol	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-5T-A9QA	Adriamycin	Doxorubicin Hydrochloride	[Not Available]	Complete Response
+TCGA-5T-A9QA	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-5T-A9QA	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-5T-A9QA	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A1-A0SF	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A1-A0SF	arimidex	Anastrozole	Other, specify in notes	[Not Available]
+TCGA-A1-A0SN	taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A1-A0SN	herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A1-A0SQ	taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A1-A0SQ	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A04N	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A04N	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04N	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04P	NAVELBINE	Vinorelbine Tartrate	Chemotherapy	[Not Available]
+TCGA-A2-A04P	Cisplatin	Cisplatin	Chemotherapy	[Not Available]
+TCGA-A2-A04P	TAXOL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04P	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04P	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A04P	XELODA	Capecitabine	Chemotherapy	[Not Available]
+TCGA-A2-A04P	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04P	GEMZAR	Gemcitabine Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04Q	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04Q	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04R	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A04R	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04R	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A04R	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04R	TAXOL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04T	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04T	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04T	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04U	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04U	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04U	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04V	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04V	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04V	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A04V	XELODA	Capecitabine	Chemotherapy	[Not Available]
+TCGA-A2-A04V	LETROZOLE	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A04V	EXEMESTANE	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A04W	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04W	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04W	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04W	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A04X	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04X	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04X	HERCEPTIN	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A04X	TAXOL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04X	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A04Y	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A04Y	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A04Y	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A04Y	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A04Y	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A04Y	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CK	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A0CK	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A0CK	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A0CK	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-A2-A0CK	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CL	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CL	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0CL	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CL	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CL	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CL	Gemcitabine	Gemcitabine	Chemotherapy	Complete Response
+TCGA-A2-A0CM	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CM	Capecetabine	Capecitabine	Chemotherapy	[Not Available]
+TCGA-A2-A0CM	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CM	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CM	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0CO	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A2-A0CO	Arimidex	Anastrozole	Hormone Therapy	[Unknown]
+TCGA-A2-A0CP	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CP	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CP	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CQ	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CQ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CQ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CR	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A0CR	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A0CR	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A0CR	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A2-A0CR	Anastrazole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A2-A0CS	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CT	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CT	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CT	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CT	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CU	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CV	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0CV	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CV	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CV	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CW	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CX	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CX	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CX	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0CX	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CX	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CX	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0CY	Gemzar	Gemcitabine Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CY	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CY	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0CY	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CY	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CY	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CY	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A0CY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0CY	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0CZ	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0CZ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0CZ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0D0	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0D0	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0D1	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-A2-A0D1	Abraxane	Nab-paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0D1	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0D1	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0D2	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0D2	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0D2	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0D3	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0D3	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0D3	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-A2-A0D3	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0D4	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0D4	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0D4	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0D4	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0EM	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0EN	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0EN	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0EO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0EO	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A0EP	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A0EP	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A0EP	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A0EP	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-A2-A0EP	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-A2-A0EQ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0EQ	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0EQ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0EQ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0ER	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0ER	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0ER	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0ER	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0ES	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0ES	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0ES	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0ES	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A0ET	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0ET	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0ET	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0ET	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0EW	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0EW	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0EW	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0EW	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0EW	Letrozole	Letrozole	Hormone Therapy	Complete Response
+TCGA-A2-A0EW	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-A2-A0EW	Exemestane	Exemestane	Hormone Therapy	Clinical Progressive Disease
+TCGA-A2-A0EW	Fulvestrant	Fulvestrant	Hormone Therapy	Clinical Progressive Disease
+TCGA-A2-A0EW	Denosumab	Denosumab	Ancillary	Clinical Progressive Disease
+TCGA-A2-A0EW	Tamoxifen	Tamoxifen	Hormone Therapy	Clinical Progressive Disease
+TCGA-A2-A0EW	Doxorubicin Liposome	Doxorubicin	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A0EX	Lupron	Leuprolide Acetate	Hormone Therapy	[Not Available]
+TCGA-A2-A0EX	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0EY	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0EY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0EY	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0EY	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0EY	Lapatinib	Lapatinib	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0EY	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0ST	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0ST	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0ST	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0ST	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0ST	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0ST	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0SU	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0SV	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0SV	Fulvestrant	Fulvestrant	Hormone Therapy	[Not Available]
+TCGA-A2-A0SV	Xeloda	Capecitabine	Chemotherapy	[Not Available]
+TCGA-A2-A0SW	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0SW	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0SX	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0SX	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0SX	Gemcitabine	Gemcitabine	Chemotherapy	[Not Available]
+TCGA-A2-A0SX	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-A2-A0SX	Xeloda	Capecitabine	Chemotherapy	[Not Available]
+TCGA-A2-A0SY	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0SY	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0SY	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0SY	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0SY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0T0	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0T0	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0T0	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0T1	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0T1	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-A2-A0T1	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0T2	Xeloda	Capecitabine	Chemotherapy	[Not Available]
+TCGA-A2-A0T3	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0T3	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0T3	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0T3	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0T4	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0T5	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0T5	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0T5	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0T6	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0T6	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0T6	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0T6	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0T7	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0T7	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0T7	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A0T7	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0YC	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YD	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YD	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0YD	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YE	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0YE	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YE	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YF	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YG	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YG	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YG	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YG	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0YG	Herceptin	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-A2-A0YG	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YH	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YH	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YH	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YH	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0YI	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YJ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YJ	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YK	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YK	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YK	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YL	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A0YL	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A0YL	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A0YL	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A0YT	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A1FV	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A1FV	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A1FV	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A1FW	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A1FW	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A1FW	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A1FW	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A1FX	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A1FX	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A1FX	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A1FZ	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A1G0	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A1G0	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A1G0	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A1G0	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A1G4	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A1G4	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A1G4	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A1G4	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A1G6	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A1G6	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A1G6	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A259	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A25A	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A25A	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A25A	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A25A	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A25B	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A25B	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A25B	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A25B	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A25C	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A25C	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A25C	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A25C	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A25C	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A25C	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A25D	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-A2-A25D	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A2-A25D	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A25E	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A2-A25E	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A25E	Herceptin	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-A2-A25E	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A25E	Goserelin	Goserelin	Hormone Therapy	[Not Available]
+TCGA-A2-A25E	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A25E	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A2-A25F	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A25F	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A3KC	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A3KC	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A3KC	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A2-A3KC	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A3KC	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A2-A3KD	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A2-A3KD	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A2-A3KD	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A2-A3XS	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A3XS	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A3XS	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A3XS	Tamoxifen	Tamoxifen	Hormone Therapy	Clinical Progressive Disease
+TCGA-A2-A3XS	Docetaxel	Docetaxel	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XS	Avastin	Bevacizumab	Ancillary	Clinical Progressive Disease
+TCGA-A2-A3XS	Xeloda	Capecitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XS	Navelbine	Vinorelbine Tartrate	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XT	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Partial Response
+TCGA-A2-A3XT	Doxorubicin	Doxorubicin	Chemotherapy	Partial Response
+TCGA-A2-A3XT	Docetaxel	Docetaxel	Chemotherapy	Partial Response
+TCGA-A2-A3XU	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-A2-A3XU	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A2-A3XU	Taxotere	Docetaxel	Chemotherapy	[Unknown]
+TCGA-A2-A3XU	Arimidex	Anastrozole	Hormone Therapy	Clinical Progressive Disease
+TCGA-A2-A3XU	Xeloda	Capecitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XV	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-A2-A3XV	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A2-A3XV	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A2-A3XV	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A2-A3XW	Adriamyicin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A3XW	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A3XW	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A3XW	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A2-A3XX	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A3XX	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A3XX	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A3XY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A3XY	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A3XY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A3XY	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A3XY	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A3XY	Carboplatin	Carboplatin	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XY	Gemcitabine	Gemcitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XY	Docetaxel	Docetaxel	Chemotherapy	Clinical Progressive Disease
+TCGA-A2-A3XY	Denosumab	Denosumab	Ancillary	Clinical Progressive Disease
+TCGA-A2-A3XZ	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-A2-A3XZ	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A2-A3XZ	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A2-A3Y0	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A3Y0	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A3Y0	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A2-A3Y0	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-A2-A3Y0	Femara	Letrozole	Hormone Therapy	Complete Response
+TCGA-A2-A3Y0	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A2-A4RY	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-A2-A4RY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A4RY	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A4RY	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A2-A4S2	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A2-A4S2	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A2-A4S2	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A2-A4S2	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0CD	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0CE	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A0CE	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A7-A0CE	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A7-A0CH	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0CJ	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A0CJ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A0CJ	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0D9	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A0D9	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A0D9	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A7-A0DA	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A7-A0DA	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-A7-A0DA	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A0DB	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0DC	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-A7-A0DC	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0DC	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-A7-A0DC	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A0DC	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A0DC	Tamoxifen	Tamoxifen	Hormone Therapy	[Unknown]
+TCGA-A7-A13D	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A13D	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A13E	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A13E	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A7-A13E	Bevacizumab	Bevacizumab	Targeted Molecular therapy	[Not Available]
+TCGA-A7-A13E	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A13E	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-A7-A13E	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A7-A13E	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A13F	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A13F	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-A7-A13F	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A13F	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A7-A13F	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A13G	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A13G	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A13H	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A26E	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A26E	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A26E	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A26F	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A26F	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A26G	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A26G	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A26H	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-A7-A26H	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-A7-A26I	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A26I	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A26J	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-A7-A2KD	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A2KD	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-A7-A2KD	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A2KD	Herceptin	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A7-A3IY	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A3IZ	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-A7-A3IZ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-A7-A3IZ	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A3J0	Anastrazole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A3J1	Anastrazole	Anastrozole	Hormone Therapy	[Unknown]
+TCGA-A7-A3J1	Tamoxifen	Tamoxifen	Hormone Therapy	[Unknown]
+TCGA-A7-A3J1	Aromasin	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A7-A3RF	Anastrozole	Anastrozole	Hormone Therapy	Clinical Progressive Disease
+TCGA-A7-A425	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-A7-A425	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A7-A425	Taxol	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-A7-A425	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A426	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-A7-A426	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A7-A426	Taxol	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-A7-A426	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A7-A4SA	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A7-A4SA	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A4SA	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A7-A4SA	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A7-A4SB	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A7-A4SB	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A4SB	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A4SC	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Unknown]
+TCGA-A7-A4SC	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A7-A4SD	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-A7-A4SD	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A4SE	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-A7-A4SE	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A4SE	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A7-A4SF	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-A7-A4SF	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A7-A4SF	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A7-A4SF	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A56D	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A5ZV	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A7-A5ZV	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A5ZV	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A7-A5ZW	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A5ZW	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-A7-A5ZW	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A7-A5ZX	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A7-A5ZX	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A5ZX	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A7-A5ZX	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A7-A6VV	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A6VV	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-A7-A6VW	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A7-A6VW	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A7-A6VW	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A6VX	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A7-A6VX	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A6VX	Anastrazole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A7-A6VY	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A7-A6VY	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A7-A6VY	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A8-A06O	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A06P	Tamoxifen	Tamoxifen	Hormone Therapy	[Unknown]
+TCGA-A8-A06R	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A06R	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A8-A06R	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A06R	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A8-A06T	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A06Y	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A075	Epirubicoin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A075	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A075	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A075	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A076	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A079	5-Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-A8-A079	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-A8-A079	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A8-A07C	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A07C	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A07C	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A07C	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A07E	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07F	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A07F	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A07F	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A07F	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07G	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A07G	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-A8-A07G	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A07G	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07I	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A07I	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A07I	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A07I	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A07I	Exemestane	Exemestane	Hormone Therapy	Clinical Progressive Disease
+TCGA-A8-A07I	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A8-A07J	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A07J	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A07J	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A07J	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A07J	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07L	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07P	5-Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-A8-A07P	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-A8-A07P	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A8-A07P	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-A8-A07P	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07S	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07U	5-Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-A8-A07U	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-A8-A07U	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A8-A07U	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-A8-A07W	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A8-A07Z	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A8-A082	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A082	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A082	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A082	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A082	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A082	Exemestane	Exemestane	Hormone Therapy	Complete Response
+TCGA-A8-A085	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A086	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A086	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08B	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A08B	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A08B	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08B	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A8-A08B	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A8-A08B	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08C	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A08C	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A08C	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08C	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08F	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A08F	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A08F	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08F	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A08F	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08G	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A08G	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A08G	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08G	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A08G	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08I	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A08I	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A08I	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08I	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08O	Docetaxel	Docetaxel	Chemotherapy	Clinical Progressive Disease
+TCGA-A8-A08O	Vinorelbine	Vinorelbine	Chemotherapy	Clinical Progressive Disease
+TCGA-A8-A08O	Anastrozole	Anastrozole	Hormone Therapy	Clinical Progressive Disease
+TCGA-A8-A08O	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08O	Bevacizumab	Bevacizumab	Targeted Molecular therapy	Clinical Progressive Disease
+TCGA-A8-A08P	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A08P	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A8-A08P	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08P	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A08P	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08P	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A8-A08S	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A08X	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A8-A08X	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A08X	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A8-A08X	Trastuzumab	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-A8-A08X	Vinorelbine	Vinorelbine	Chemotherapy	Complete Response
+TCGA-A8-A08X	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A091	5-Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-A8-A091	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-A8-A091	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A8-A091	Tamoxifen	Tamoxifen	Hormone Therapy	Stable Disease
+TCGA-A8-A091	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A092	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A8-A092	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A092	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A092	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A093	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A095	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A095	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A8-A095	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A095	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A097	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-A8-A097	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A097	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A099	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09A	5-Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-A8-A09A	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-A8-A09A	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A8-A09A	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-A8-A09A	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09B	5-Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-A8-A09B	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-A8-A09B	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-A8-A09B	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-A8-A09B	Anastrozole	Anastrozole	Hormone Therapy	[Unknown]
+TCGA-A8-A09D	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A8-A09D	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A09D	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A8-A09D	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A8-A09D	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09E	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09I	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09M	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-A8-A09M	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09Q	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09R	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09T	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A09V	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0A1	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0A2	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0A4	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-A8-A0A4	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0A6	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-A8-A0A6	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A0A6	Exemestane	Exemestane	Hormone Therapy	Complete Response
+TCGA-A8-A0A6	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0A9	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0AB	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-A8-A0AB	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-A8-A0AB	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-A8-A0AB	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-A8-A0AD	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-AC-A23E	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-AC-A23G	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A23G	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AC-A23G	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-AC-A23G	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-AC-A2B8	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A2BK	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A2BK	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AC-A2BK	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-AC-A2BK	Avastin	Bevacizumab	Chemotherapy	Complete Response
+TCGA-AC-A2FB	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-AC-A2FB	Herceptin	Trastuzumab	Chemotherapy	Complete Response
+TCGA-AC-A2FB	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-AC-A2FE	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Partial Response
+TCGA-AC-A2FE	Taxol	Paclitaxel	Chemotherapy	Partial Response
+TCGA-AC-A2FE	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AC-A2FE	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A2FE	Xeloda	Capecitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2FE	Abraxane	Nab-paclitaxel	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2FF	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A2FF	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AC-A2FF	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-AC-A2FF	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-AC-A2FG	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-AC-A2FK	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A2FK	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AC-A2FK	Femara	Letrozole	Hormone Therapy	Complete Response
+TCGA-AC-A2FK	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-AC-A2QH	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A2QH	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AC-A2QI	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A2QI	5-FU	Fluorouracil	Chemotherapy	Complete Response
+TCGA-AC-A2QI	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-AC-A2QJ	Cytoxan	Cyclophosphamide	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2QJ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2QJ	Abraxane	Nab-paclitaxel	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2QJ	Gemzar	Gemcitabine Hydrochloride	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2QJ	Carboplatin	Carboplatin	Chemotherapy	Clinical Progressive Disease
+TCGA-AC-A2QJ	Faslodex	Fulvestrant	Hormone Therapy	Clinical Progressive Disease
+TCGA-AC-A3BB	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A3BB	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AC-A3BB	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-AC-A3QP	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A3TM	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A3TM	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-AC-A3TM	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A3TN	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A3W5	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-AC-A3W5	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A3W5	Herceptin	Trastuzumab	Targeted Molecular therapy	Complete Response
+TCGA-AC-A3W5	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A3W7	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A3YI	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AC-A3YI	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-AC-A3YI	5-FU	Fluorouracil	Chemotherapy	Complete Response
+TCGA-AC-A3YJ	Arimidex	Anastrozole	Hormone Therapy	[Unknown]
+TCGA-AC-A3YJ	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A5XS	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A5XU	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AC-A62V	Denosumab	Denosumab	Ancillary	Partial Response
+TCGA-AC-A62V	Paclitaxel	Paclitaxel	Chemotherapy	Partial Response
+TCGA-AO-A03L	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03L	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03L	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A03L	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A03L	Lupron	Leuprolide Acetate	Hormone Therapy	[Not Available]
+TCGA-AO-A03M	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03M	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A03M	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03M	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03N	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A03N	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AO-A03N	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03N	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Xgeva	Denosumab	Other, specify in notes	[Not Available]
+TCGA-AO-A03N	Fulvestrant	Fulvestrant	Hormone Therapy	[Not Available]
+TCGA-AO-A03N	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Tesetaxel	Tesetaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Gemcitabine	Gemcitabine	Chemotherapy	[Not Available]
+TCGA-AO-A03N	Vinorelbine	Vinorelbine	Chemotherapy	[Not Available]
+TCGA-AO-A03O	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03O	ANASTROZOLE (ARIMIDEX)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03O	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03O	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A03P	BEVACIZUMAB	Bevacizumab	Immunotherapy	[Not Available]
+TCGA-AO-A03P	CAPECITABINE	Capecitabine	Chemotherapy	[Not Available]
+TCGA-AO-A03P	LETROZOLE (FEMARA)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03P	EXEMESTANE (AROMASIN)	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AO-A03P	FULVESTRANT	Fulvestrant	Hormone Therapy	[Not Available]
+TCGA-AO-A03R	LETROZOLE (FEMARA)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03R	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03R	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03R	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A03T	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03T	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A03T	TAMOXIFEN (NOVADEX)	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A03T	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A03T	LETROZOLE (FEMARA)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03T	LUPRON	Leuprolide Acetate	Hormone Therapy	[Not Available]
+TCGA-AO-A03U	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03U	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A03U	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A03V	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A03V	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A03V	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A03V	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A03V	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A0J2	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0J2	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J2	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J3	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J3	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J3	FLOUROURACIL	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A0J3	ANASTROZOLE (ARIMIDEX)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0J3	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0J3	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J3	METHOTREXATE	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A0J4	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J4	Cyclophasphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J4	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0J5	Fulvestrant (Faslodex)	Fulvestrant	Hormone Therapy	[Not Available]
+TCGA-AO-A0J5	Xeloda (Capecitabine)	Capecitabine	Chemotherapy	[Not Available]
+TCGA-AO-A0J5	Femara (Letrozole)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0J6	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J6	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J6	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0J7	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0J7	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J7	ANASTROZOLE (ARIMIDEX)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0J7	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J8	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J8	ANASTROZOLE (ARIMIDEX)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0J8	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A0J8	METHOTREXATE	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A0J9	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0J9	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A0J9	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J9	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0J9	DOCETAXEL	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0J9	ARIMIDEX (ANASTROZOLE)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0J9	AROMASIN (EXEMESTANE)	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AO-A0JA	LEUPROLIDE ACETATE (LUPRON)	Leuprolide Acetate	Hormone Therapy	[Not Available]
+TCGA-AO-A0JA	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A0JA	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JB	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JB	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JB	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JB	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A0JC	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JC	LETROZOLE (FEMARA)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JC	FLUOROURACIL	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A0JC	METHOTREXATE	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A0JD	ANASTROZOLE (ARIMIDEX)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JD	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JD	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JD	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JE	TRASTUZUMAB	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-AO-A0JE	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JE	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JE	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JF	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JF	ANASTROZOLE (ARIMIDEX)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JF	LETROZOLE (FEMARA)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JF	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JF	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JG	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JG	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JG	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JG	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JI	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JI	Arimidex (Anastrozole)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JI	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JI	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JJ	Cyclophospamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JJ	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JJ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JJ	Abraxane	Nab-paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JJ	Letrozole (Femara)	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A0JL	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JL	TRASTUZUMAB	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-AO-A0JL	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A0JL	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JM	TRASTUZUMAB	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-AO-A0JM	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A0JM	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A0JM	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A0JM	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A124	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A124	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A124	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A125	Aromasin (Exemestane)	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AO-A125	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A126	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A126	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A126	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A126	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A128	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A128	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A128	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A129	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A129	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A129	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A12A	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A12A	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A12A	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AO-A12A	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A12A	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A12B	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A12B	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A12B	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A12B	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A12C	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A12C	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A12C	Trastuzumab	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-AO-A12C	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A12C	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A12D	Trastuzumab	Trastuzumab	Targeted Molecular therapy	[Not Available]
+TCGA-AO-A12D	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A12D	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A12D	Albumin-Bound Paclitaxel	Nab-paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A12E	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A12E	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A12E	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A12E	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A12F	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A12F	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A12F	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A12G	Arimidex (Anastrozole)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A12H	Arimidex (Anastrozole)	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A1KO	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A1KO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A1KO	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A1KO	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A1KP	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A1KP	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A1KP	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A1KP	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A1KQ	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AO-A1KR	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AO-A1KR	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AO-A1KR	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AO-A1KS	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A1KT	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AO-A1KT	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-AO-A1KT	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AO-A1KT	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AQ-A04H	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AQ-A04H	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AQ-A04H	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-AQ-A04H	Herceptin	Trastuzumab	Chemotherapy	Complete Response
+TCGA-AQ-A04J	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AQ-A04J	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AQ-A04J	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AQ-A04L	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AQ-A04L	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AQ-A04L	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AQ-A0Y5	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AQ-A0Y5	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AQ-A0Y5	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-AQ-A1H2	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AQ-A1H2	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-AQ-A1H2	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AQ-A1H3	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AQ-A1H3	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AQ-A1H3	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AQ-A1H3	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AQ-A54O	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-AQ-A54O	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AQ-A54O	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-AQ-A54O	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-AQ-A7U7	Rituximab	Rituximab	Immunotherapy	Complete Response
+TCGA-AQ-A7U7	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-AQ-A7U7	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-AQ-A7U7	Vincristine	Vincristine	Chemotherapy	Complete Response
+TCGA-AQ-A7U7	Prednisone	Prednisone	Hormone Therapy	Complete Response
+TCGA-AQ-A7U7	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-AR-A0TP	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TP	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TQ	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TQ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TQ	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A0TQ	Triptorelin	Triptorelin	Hormone Therapy	[Not Available]
+TCGA-AR-A0TQ	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A0TQ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TQ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TQ	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A0TQ	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AR-A0TR	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A0TS	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TS	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TS	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TT	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TT	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A0TT	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A0TT	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TT	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TU	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TU	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TU	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TW	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TW	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TW	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TY	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TY	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TY	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0TY	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A0TZ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0TZ	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0TZ	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A0TZ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0U1	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0U1	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0U1	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0U2	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0U2	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0U2	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0U2	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A0U2	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AR-A0U3	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0U3	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0U3	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A0U3	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A0U4	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A0U4	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A0U4	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AH	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A1AI	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AI	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AI	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AK	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AL	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AL	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AL	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AL	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AL	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AL	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AM	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AR-A1AM	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A1AM	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AM	cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-AR-A1AN	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AN	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AN	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A1AN	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AN	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AN	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A1AO	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AO	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AO	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AP	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AQ	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AQ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AQ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AR	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AR	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AS	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AS	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AS	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AT	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AT	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A1AU	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AU	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AU	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AU	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A1AV	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A1AV	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AV	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AV	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AW	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AW	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AW	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AX	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A1AX	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A1AX	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AX	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A1AX	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AR-A1AX	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A1AY	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A1AY	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24H	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24H	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24K	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24K	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24K	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24L	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24L	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24L	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24L	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24M	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24M	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24M	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24M	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24M	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24O	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24O	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24O	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24O	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24O	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24Q	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24Q	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24Q	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24Q	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A24Q	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24Q	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A24Q	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A24Q	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24R	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24R	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24R	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24R	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24R	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24S	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AR-A24S	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24T	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24T	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24T	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24T	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24T	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24U	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24U	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24U	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24U	Trustuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A24U	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A24U	Trustuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A24V	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24V	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24V	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24V	Bevacizumab	Bevacizumab	Immunotherapy	[Not Available]
+TCGA-AR-A24V	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24V	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24W	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24W	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24W	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A24W	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24W	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A24X	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24X	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24X	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A24Z	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A24Z	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A24Z	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A250	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A250	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A250	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A250	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A250	Trustuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A250	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A250	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A251	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A251	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A251	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A251	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A252	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A252	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A252	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A254	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A254	Abraxane	Nab-paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A254	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-AR-A254	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-AR-A254	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A254	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A254	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A254	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A254	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A255	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A255	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A255	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A256	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-AR-A256	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LE	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A2LH	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AR-A2LH	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LH	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LJ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AR-A2LJ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LJ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LJ	Trastuzumab	Trastuzumab	Immunotherapy	[Not Available]
+TCGA-AR-A2LJ	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A2LK	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AR-A2LK	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LK	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LK	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A2LL	Tamoxifen	Tamoxifen	Hormone Therapy	[Unknown]
+TCGA-AR-A2LM	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LM	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LM	Abraxane	Nab-paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LM	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A2LN	Letrozole	Letrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A2LO	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AR-A2LO	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LO	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LO	Bevacizumab	Bevacizumab	Immunotherapy	[Not Available]
+TCGA-AR-A2LO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A2LO	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A2LQ	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A2LQ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A2LQ	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A2LR	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-AR-A2LR	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A5QM	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A5QN	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-AR-A5QN	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-AR-A5QN	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-AR-A5QN	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-AR-A5QP	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-AR-A5QQ	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-AR-A5QQ	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-AR-A5QQ	Ifosfamide	Ifosfamide	Chemotherapy	[Not Available]
+TCGA-AR-A5QQ	VP-16	Etoposide	Chemotherapy	[Not Available]
+TCGA-B6-A3ZX	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-B6-A3ZX	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-B6-A3ZX	Paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-B6-A401	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-B6-A401	Doxetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-B6-A401	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-B6-A401	Femara	Letrozole	Chemotherapy	[Unknown]
+TCGA-B6-A402	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Partial Response
+TCGA-B6-A402	Doxorubicin	Doxorubicin	Chemotherapy	Partial Response
+TCGA-B6-A402	Paclitaxel	Paclitaxel	Chemotherapy	Partial Response
+TCGA-B6-A402	Doxil	Pegylated Liposomal Doxorubicin Hydrochloride	Chemotherapy	Partial Response
+TCGA-B6-A408	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-B6-A408	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-B6-A408	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-B6-A409	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-B6-A409	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-B6-A409	Paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-B6-A40C	Cyclophosphamide	Cyclophosphamide	Hormone Therapy	[Unknown]
+TCGA-B6-A40C	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-B6-A40C	Paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-BH-A0AV	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0AV	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0AW	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-BH-A0AW	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0AW	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-BH-A0AW	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0AW	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-BH-A0AY	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-BH-A0AZ	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-BH-A0AZ	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0AZ	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0AZ	Avastin	Bevacizumab	Immunotherapy	Complete Response
+TCGA-BH-A0B0	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0B0	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0B1	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0B1	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0B1	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-BH-A0B1	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0B3	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0B3	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0B3	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0B4	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0B4	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0B5	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0B5	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0B5	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0B7	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0B7	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0B8	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0B9	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0B9	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BA	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BA	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0BA	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-BH-A0BC	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BC	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0BC	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0BC	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0BC	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0BD	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0BD	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BD	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0BJ	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0BJ	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0BJ	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0BJ	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BL	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0BL	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0BL	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0BM	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-BH-A0BM	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BM	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0BS	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0BS	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0BT	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0BT	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0BV	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0BV	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0BV	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0BV	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0BW	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0BW	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0BZ	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-BH-A0BZ	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0BZ	Abraxane	Nab-paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0C0	DOCETAXEL	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0C0	CARBOPLATIN	Carboplatin	Chemotherapy	[Not Available]
+TCGA-BH-A0C0	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0C1	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Clinical Progressive Disease
+TCGA-BH-A0C1	Cytoxan	Cyclophosphamide	Chemotherapy	Clinical Progressive Disease
+TCGA-BH-A0C3	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Clinical Progressive Disease
+TCGA-BH-A0C3	Cytoxan	Cyclophosphamide	Chemotherapy	Clinical Progressive Disease
+TCGA-BH-A0C7	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0C7	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0C7	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DD	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DD	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-BH-A0DG	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DG	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0DG	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DH	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0DH	FEMARA	Letrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0DH	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0DH	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0DI	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0DI	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DI	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DK	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0DL	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DL	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DP	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0DQ	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0DQ	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0DQ	TAXOL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0DS	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0DS	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0DT	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DT	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0DT	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DV	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DV	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0DV	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DX	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0DX	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DX	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0DX	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-BH-A0DZ	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0DZ	CARBOPLATIN	Carboplatin	Chemotherapy	[Not Available]
+TCGA-BH-A0DZ	DOCETAXEL	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0DZ	HERCEPTIN	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-BH-A0E0	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0E0	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0E0	DOCETAXEL	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0E1	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0E1	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-BH-A0E1	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0E1	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0E2	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0E2	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0E2	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0E2	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0E6	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0E6	CYTOXAN	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0E7	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0E9	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0E9	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A0E9	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0EA	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0EA	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0EB	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0EE	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-BH-A0EE	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0EE	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0EE	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-BH-A0GY	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0GY	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-BH-A0GY	Cyotxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0GZ	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0H0	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0H5	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0H5	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0H7	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0H7	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0H7	PACLITAXEL	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0H7	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0H7	BEVACIZUMAB (AVASTIN)	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-BH-A0H9	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HB	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HB	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HB	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0HF	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HI	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HK	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HL	DOXORUBICIN	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0HL	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HL	TAXOTERE	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0HL	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HN	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HO	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HO	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0HO	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0HO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0HP	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HP	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0HP	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0HP	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HQ	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HU	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-BH-A0HU	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0HU	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HW	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HW	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HW	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-BH-A0HX	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-BH-A0HX	Adrimycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-BH-A0HX	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0HX	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-BH-A0HY	Taxotere	Docetaxel	Hormone Therapy	Complete Response
+TCGA-BH-A0HY	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-BH-A0HY	Herceptin	Trastuzumab	Chemotherapy	Complete Response
+TCGA-BH-A0RX	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-BH-A0RX	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-BH-A0RX	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-BH-A0W5	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-BH-A0W7	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A0W7	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A0W7	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-BH-A0W7	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-BH-A18F	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A18F	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A18H	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A18H	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A18H	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A18I	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A18I	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A202	Carboplatin	Carboplatin	Chemotherapy	Complete Response
+TCGA-BH-A202	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A28O	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A28O	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-BH-A2L8	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A5IZ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-BH-A5IZ	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A5IZ	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-A8G0	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-BH-A8G0	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-BH-AB28	Taxotere	Docetaxel	Chemotherapy	[Not Applicable]
+TCGA-BH-AB28	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Applicable]
+TCGA-C8-A12Z	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A12Z	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A12Z	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A131	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A131	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A131	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A134	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A134	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-C8-A134	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A135	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A135	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A135	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A135	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-C8-A1HM	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A1HM	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A1HM	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-C8-A1HO	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A1HO	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-C8-A1HO	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A26V	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-C8-A26W	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A26W	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A26X	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A26X	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A26X	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A26Z	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-C8-A273	Tamoxifen	Tamoxifen	Hormone Therapy	[Discrepancy]
+TCGA-C8-A274	Tamoxifen	Tamoxifen	Hormone Therapy	[Discrepancy]
+TCGA-C8-A278	Tamoxifen	Tamoxifen	Hormone Therapy	[Discrepancy]
+TCGA-C8-A27A	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A27A	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A27A	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A27A	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-C8-A27B	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A27B	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A27B	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A27B	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-C8-A3M8	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-C8-A8HP	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A8HP	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-C8-A8HP	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A8HR	5 fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A8HR	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-C8-A8HR	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A9FZ	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-C8-A9FZ	5-Flourouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-C8-A9FZ	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-C8-A9FZ	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-D8-A13Y	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A13Y	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A13Z	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A13Z	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A13Z	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A140	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A140	cyclophosphamid	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A141	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A141	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A141	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A142	cyclophosphamid	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A142	metotreksat	Methotrexate	Chemotherapy	[Not Available]
+TCGA-D8-A142	fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-D8-A143	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A143	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A145	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A147	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A147	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A147	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-D8-A147	docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-D8-A1J8	nolvadex	Tamoxifen Citrate	Hormone Therapy	[Not Available]
+TCGA-D8-A1JA	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1JA	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JB	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1JB	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JC	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1JC	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JD	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1JD	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JE	adriamicin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1JE	cyclophosphamid	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JG	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A1JG	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Applicable]
+TCGA-D8-A1JH	nolvadex	Tamoxifen Citrate	Hormone Therapy	[Not Available]
+TCGA-D8-A1JI	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A1JI	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JI	letrozolum	Letrozole	Hormone Therapy	[Not Available]
+TCGA-D8-A1JJ	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A1JJ	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1JM	doxorubicine cyclophosphamide tamoxifen	Cyclophosphamide	Chemotherapy|Hormone Therapy	[Not Available]
+TCGA-D8-A1JN	anastrozolum	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-D8-A1JP	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1JS	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1JT	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-D8-A1JU	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1X5	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1X5	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1X6	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1X7	doxorubicine	Doxorubicin	Chemotherapy|Hormone Therapy	[Not Available]
+TCGA-D8-A1X7	cyclophosphamide	Cyclophosphamide	Chemotherapy|Hormone Therapy	[Not Available]
+TCGA-D8-A1X7	tamoxifen	Tamoxifen	Chemotherapy|Hormone Therapy	[Not Available]
+TCGA-D8-A1X8	adrimicin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1X8	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1X9	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1X9	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XF	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1XF	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XJ	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1XK	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A1XK	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XL	tamoxiphene	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1XL	gosereline	Goserelin	Hormone Therapy	[Not Available]
+TCGA-D8-A1XL	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A1XL	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XL	tamoxifen	Tamoxifen	Chemotherapy	[Not Available]
+TCGA-D8-A1XO	Tamoxifen	Tamoxifen	Hormone Therapy	[Discrepancy]
+TCGA-D8-A1XR	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1XR	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XS	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1XS	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XT	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1XT	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XW	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A1XW	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1XY	Tamoxifen	Tamoxifen	Chemotherapy	[Not Available]
+TCGA-D8-A1XZ	tamoxiphene	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1XZ	anastrozolum	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-D8-A1Y0	tamoxiphene	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1Y0	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A1Y0	methotrexatum	Methotrexate	Chemotherapy	[Not Available]
+TCGA-D8-A1Y0	fluorouracillum	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-D8-A1Y1	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1Y2	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1Y3	tamoxiphene	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A1Y3	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A1Y3	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27E	tamoxiphen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A27F	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A27F	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27H	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A27H	 cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27I	adrimycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A27I	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27K	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A27K	cyclophosphamid	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27K	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-D8-A27L	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A27L	cuclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27M	methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-D8-A27M	5 fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-D8-A27M	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27N	taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-D8-A27N	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A27N	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27N	herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-D8-A27R	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-D8-A27R	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27T	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A27T	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A27T	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A27V	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A27W	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-D8-A27W	doxorubicine	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-D8-A27W	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-D8-A3Z6	cyclophosphamidum	Cyclophosphamide	Chemotherapy	Stable Disease
+TCGA-D8-A3Z6	taxol	Paclitaxel	Chemotherapy	Stable Disease
+TCGA-D8-A3Z6	tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-D8-A3Z6	Doxorubicinum	Doxorubicin	Chemotherapy	Stable Disease
+TCGA-D8-A4Z1	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-D8-A73U	tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-D8-A73W	Tamoxifen	Tamoxifen	Hormone Therapy	Clinical Progressive Disease
+TCGA-D8-A73X	tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E2-A105	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A106	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A107	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A107	cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A107	avastin	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-E2-A107	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A107	Avastin	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-E2-A107	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A107	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A107	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A107	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A107	Bevacizumab	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-E2-A107	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A107	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A107	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A108	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A108	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A108	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A108	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A109	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A109	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A109	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A109	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A109	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A109	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A109	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A109	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A10A	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A10B	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A10B	Bevacizumab	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-E2-A10B	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-E2-A10B	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A10B	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A10B	Pemetrexed	Pemetrexed	Chemotherapy	[Not Available]
+TCGA-E2-A10C	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A10C	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A10C	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A10C	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A10C	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A10E	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A10E	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A10E	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A10E	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A10E	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A10F	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A10F	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A10F	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14N	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14N	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A14N	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14O	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A14P	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A14Q	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A14R	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A14R	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14R	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14S	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14S	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A14S	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14T	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A14T	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14T	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14T	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A14U	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A14V	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14V	arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A14V	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A14V	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14V	lapatinib	Lapatinib	Chemotherapy	[Not Available]
+TCGA-E2-A14W	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A14W	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A14W	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14W	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14X	avastin	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-E2-A14X	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A14X	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A14X	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14Y	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14Y	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-E2-A14Y	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A14Y	Fareston	Toremifene Citrate	Hormone Therapy	[Not Available]
+TCGA-E2-A14Y	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A14Z	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A14Z	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A14Z	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-E2-A150	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A150	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A152	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A152	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A152	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A152	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A153	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A153	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A153	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A153	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A154	arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A155	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A155	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A155	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A155	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A155	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A156	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A158	arimidex	Anastrozole	Chemotherapy	[Not Available]
+TCGA-E2-A158	cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A158	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A159	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A159	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15A	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A15A	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A15A	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15C	arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15D	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A15E	aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A15E	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A15E	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A15E	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A15E	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15E	trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A15F	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15G	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15H	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A15I	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A15J	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15J	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A15J	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A15K	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A15K	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15K	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A15L	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15M	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15O	femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15O	aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A15O	arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15O	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A15P	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A15P	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15R	arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15R	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15R	doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A15R	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A15S	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A15S	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A15S	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A15S	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A15T	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1AZ	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1AZ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1B0	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1B0	cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1B0	taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1B0	herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A1B1	paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1B1	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1B1	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1B1	herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A1B1	triptorelin	Triptorelin	Hormone Therapy	[Not Available]
+TCGA-E2-A1B1	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1B4	arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1B5	taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1B5	cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1B5	tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1B6	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1B6	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1B6	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1BC	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1BD	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IE	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1IE	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1IE	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1IE	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1IE	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IE	Femara	Letrozole	Hormone Therapy	Clinical Progressive Disease
+TCGA-E2-A1IE	Faslodex	Fulvestrant	Hormone Therapy	Clinical Progressive Disease
+TCGA-E2-A1IE	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-E2-A1IE	Everolimus	Everolimus	Chemotherapy	[Not Applicable]
+TCGA-E2-A1IF	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IG	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1IG	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1IG	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1IG	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1IG	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A1IH	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E2-A1II	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1II	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1II	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1IJ	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IK	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IL	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IN	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1IO	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1IO	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1IO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1IU	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1L6	Triptorelin	Triptorelin	Other, specify in notes	[Not Available]
+TCGA-E2-A1L6	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1L6	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1L6	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1L6	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1L7	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1L7	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1L7	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1L7	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1L8	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1L8	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1L8	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1L8	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1L9	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1L9	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E2-A1L9	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LA	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-E2-A1LB	herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A1LB	cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LB	taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1LB	adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1LE	gemcitabine	Gemcitabine	Chemotherapy	[Not Available]
+TCGA-E2-A1LE	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LE	docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1LE	herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-E2-A1LG	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E2-A1LG	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LG	Bevacizumab or Placebo	Bevacizumab	Other, specify in notes	[Not Available]
+TCGA-E2-A1LG	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1LH	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LH	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1LI	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-E2-A1LI	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LL	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A1LL	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1LS	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-E2-A1LS	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E2-A2P5	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A2P6	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A3DX	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-E2-A3DX	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-E2-A3DX	Paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-E2-A3DX	Trastuzumab	Trastuzumab	Chemotherapy	Complete Response
+TCGA-E2-A3DX	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E2-A56Z	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A570	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A572	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-E2-A572	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-E2-A572	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A573	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-E2-A573	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E2-A574	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-E2-A574	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-E2-A574	Abraxane	Nab-paclitaxel	Chemotherapy	[Unknown]
+TCGA-E2-A576	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E2-A576	Taxotere	Docetaxel	Chemotherapy	[Unknown]
+TCGA-E2-A576	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-E2-A9RU	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1N3	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A1N3	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-E9-A1N3	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A1N3	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1N4	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1N4	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1N4	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1N4	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1N5	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1N5	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1N5	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1N5	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1N6	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1N6	Doxorubicin	Doxorubicin	Chemotherapy	Stable Disease
+TCGA-E9-A1N6	Cyclophosphane	Cyclophosphamide	Chemotherapy	Stable Disease
+TCGA-E9-A1N6	Letrozole	Letrozole	Hormone Therapy	Clinical Progressive Disease
+TCGA-E9-A1N8	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1N8	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1N8	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1N9	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1N9	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1NA	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1NA	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-E9-A1NA	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1NC	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-E9-A1NC	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A1NC	Cyclophosphane	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A1NC	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-E9-A1ND	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1ND	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-E9-A1NE	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-E9-A1NE	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A1NE	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A1NE	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1NF	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1NF	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1NF	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1NF	Vinorelbine	Vinorelbine	Chemotherapy	[Not Available]
+TCGA-E9-A1NF	Mitomycin	Mitomycin	Chemotherapy	[Not Available]
+TCGA-E9-A1NF	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1NG	Letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1NG	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-E9-A1NH	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1NI	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-E9-A1NI	Cyclophosphane	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A1NI	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A1NI	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1R0	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1R0	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1R2	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-E9-A1R2	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-E9-A1R2	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A1R3	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1R3	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1R3	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1R3	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1R4	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1R4	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1R4	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1R4	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1R5	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1R6	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1R7	Fareston	Toremifene Citrate	Hormone Therapy	[Not Available]
+TCGA-E9-A1R7	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A1RA	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1RA	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RA	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RB	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RB	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RB	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RB	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1RC	Mitomycin	Mitomycin	Chemotherapy	[Not Available]
+TCGA-E9-A1RC	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RC	Mitoxantrone	Mitoxantrone	Chemotherapy	[Not Available]
+TCGA-E9-A1RC	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1RD	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RE	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RE	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RE	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1RE	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RE	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1RE	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1RE	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RF	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1RF	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RF	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RF	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RG	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RG	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RH	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A1RH	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A1RH	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RH	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RI	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A1RI	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A1RI	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A1RI	Leuprolide	Leuprolide	Hormone Therapy	Complete Response
+TCGA-E9-A1RI	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A226	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A226	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A226	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A226	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A227	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-E9-A227	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A228	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A228	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A228	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A229	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A229	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A229	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A22A	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A22B	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A22D	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A22D	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A22D	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A22D	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A22E	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A22E	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A22E	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A22G	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A22G	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A22H	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A22H	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A22H	Cyclophosphane	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A22H	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A243	Methotrexate	Methotrexate	Chemotherapy	[Not Available]
+TCGA-E9-A243	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A243	Vincristine	Vincristine	Chemotherapy	[Not Available]
+TCGA-E9-A243	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A243	5-Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-E9-A244	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A244	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A245	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A247	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A248	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A248	Doxorubicin	Doxorubicin	Chemotherapy	[Not Available]
+TCGA-E9-A249	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A249	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A249	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-E9-A249	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-E9-A24A	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-E9-A295	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A2JS	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A2JS	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A2JS	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-E9-A2JS	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A2JT	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A3HO	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A3HO	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A3HO	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-E9-A3HO	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A3HO	Leuprorelin	Leuprolide	Hormone Therapy	Complete Response
+TCGA-E9-A3Q9	Cyclophosphane	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A3Q9	Mitoxantrone	Mitoxantrone	Chemotherapy	Complete Response
+TCGA-E9-A3Q9	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A3Q9	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A3X8	Cyclophosphane	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A3X8	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-E9-A3X8	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A3X8	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A5FK	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A5FK	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-E9-A5FK	5-Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-E9-A5UP	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-E9-A6HE	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-E9-A6HE	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-E9-A6HE	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-E9-A6HE	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-EW-A1IW	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-EW-A1IX	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1IY	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1IY	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1IZ	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1IZ	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1IZ	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1IZ	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-EW-A1J1	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1J1	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-EW-A1J1	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1J1	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-EW-A1J2	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1J2	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1J2	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1J3	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-EW-A1J3	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1J3	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-EW-A1J3	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1J5	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-EW-A1J5	Herceptin	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-EW-A1J5	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1J5	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1J6	Femara	Letrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1OV	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1OV	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1OV	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1OV	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1OW	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1OW	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1OW	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1OW	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1OX	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-EW-A1OX	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1OX	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1OY	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-EW-A1OY	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-EW-A1OY	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-EW-A1OY	Paclitaxel	Paclitaxel	Chemotherapy	Stable Disease
+TCGA-EW-A1OZ	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1OZ	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-EW-A1OZ	Aromasin	Exemestane	Chemotherapy	[Not Available]
+TCGA-EW-A1OZ	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-EW-A1OZ	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P0	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1P1	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P1	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-EW-A1P1	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P1	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1P1	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1P1	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-EW-A1P3	Tamoxifen	Tamoxifen	Hormone Therapy	Stable Disease
+TCGA-EW-A1P3	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-EW-A1P3	Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-EW-A1P3	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-EW-A1P3	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-EW-A1P3	Paclitaxel	Paclitaxel	Chemotherapy	Stable Disease
+TCGA-EW-A1P4	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1P4	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P5	Anastrozole	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1P6	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1P6	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1P6	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P6	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1P6	Paclitaxel	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P6	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1P7	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-EW-A1P7	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1P8	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1P8	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1P8	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1PA	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1PA	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1PA	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1PA	Nolvadex	Tamoxifen Citrate	Hormone Therapy	[Not Available]
+TCGA-EW-A1PA	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1PC	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Available]
+TCGA-EW-A1PD	Trastuzumab	Trastuzumab	Chemotherapy	[Not Available]
+TCGA-EW-A1PD	Carboplatin	Carboplatin	Chemotherapy	[Not Available]
+TCGA-EW-A1PD	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1PE	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1PE	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1PE	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1PE	Exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-EW-A1PE	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1PF	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-EW-A1PF	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1PF	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1PG	Aromasin	Exemestane	Hormone Therapy	[Not Available]
+TCGA-EW-A1PG	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1PG	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1PG	CYCLOPHOSPHAMIDE	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1PG	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1PH	Docetaxel	Docetaxel	Chemotherapy	[Not Available]
+TCGA-EW-A1PH	Fluorouracil	Fluorouracil	Chemotherapy	[Not Available]
+TCGA-EW-A1PH	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-EW-A1PH	Epirubicin	Epirubicin	Chemotherapy	[Not Available]
+TCGA-EW-A1PH	Taxol	Paclitaxel	Chemotherapy	[Not Available]
+TCGA-EW-A2FR	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-EW-A2FR	Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-EW-A2FR	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-EW-A2FR	Paclitaxel	Paclitaxel	Chemotherapy	Stable Disease
+TCGA-EW-A2FS	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-EW-A2FS	Goserelin	Goserelin	Hormone Therapy	Stable Disease
+TCGA-EW-A2FS	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-EW-A2FS	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-EW-A2FS	Bevacizumab	Bevacizumab	Chemotherapy	[Not Available]
+TCGA-EW-A2FS	Paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-EW-A2FV	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-EW-A2FV	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-EW-A2FV	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-EW-A2FV	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-EW-A2FV	Goserelin	Goserelin	Hormone Therapy	[Not Applicable]
+TCGA-EW-A2FW	Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-EW-A2FW	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-EW-A2FW	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-EW-A2FW	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-EW-A2FW	Exemestane	Exemestane	Hormone Therapy	[Not Applicable]
+TCGA-EW-A3E8	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-EW-A3U0	Cisplatin	Cisplatin	Chemotherapy	Complete Response
+TCGA-EW-A3U0	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-EW-A3U0	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-EW-A3U0	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-EW-A423	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-EW-A424	Docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-EW-A424	Cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-EW-A424	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-EW-A6SC	aromatase exemestane	Exemestane	Hormone Therapy	[Not Available]
+TCGA-GI-A2C8	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Not Available]
+TCGA-GI-A2C8	Cytoxen	Cyclophosphamide	Chemotherapy	[Not Available]
+TCGA-GI-A2C8	Taxotere	Docetaxel	Chemotherapy	[Not Available]
+TCGA-GM-A2D9	Arimidex	Anastrozole	Hormone Therapy	Stable Disease
+TCGA-GM-A2D9	Tamoxifen	Tamoxifen	Hormone Therapy	Stable Disease
+TCGA-GM-A2D9	Xeloda	Capecitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-GM-A2D9	Gemcitabine	Gemcitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-GM-A2DA	fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DA	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-GM-A2DA	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DA	Methotrexate	Methotrexate	Chemotherapy	Complete Response
+TCGA-GM-A2DA	Vinblastine	Vinblastine	Chemotherapy	Complete Response
+TCGA-GM-A2DA	Tamoxifen	Tamoxifen	Hormone Therapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Aromasin	Exemestane	Hormone Therapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Taxotere	Docetaxel	Chemotherapy	Stable Disease
+TCGA-GM-A2DA	Letrozole	Letrozole	Hormone Therapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Megace	Megestrol Acetate	Hormone Therapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Xeloda	Capecitabine	Chemotherapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Yondelis	Trabectedin	Chemotherapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Xeloda	Capecitabine	Chemotherapy	Stable Disease
+TCGA-GM-A2DA	Aromasin	Exemestane	Hormone Therapy	Stable Disease
+TCGA-GM-A2DA	Xeloda	Capecitabine	Chemotherapy	Stable Disease
+TCGA-GM-A2DA	Abraxane	Nab-paclitaxel	Chemotherapy	Stable Disease
+TCGA-GM-A2DA	Ixabepilone	Ixabepilone	Chemotherapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Herceptin	Trastuzumab	Immunotherapy	Stable Disease
+TCGA-GM-A2DA	Tamoxifen	Tamoxifen	Hormone Therapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Xeloda	Capecitabine	Chemotherapy	Stable Disease
+TCGA-GM-A2DA	Lapatinib	Lapatinib	Chemotherapy	Stable Disease
+TCGA-GM-A2DA	Navelbine	Vinorelbine Tartrate	Chemotherapy	Clinical Progressive Disease
+TCGA-GM-A2DA	Herceptin	Trastuzumab	Immunotherapy	Stable Disease
+TCGA-GM-A2DB	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DB	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DB	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A2DB	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DC	Xeloda	Capecitabine	Chemotherapy	Complete Response
+TCGA-GM-A2DC	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DC	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A2DC	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DC	Letrozole	Letrozole	Hormone Therapy	Complete Response
+TCGA-GM-A2DC	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-GM-A2DD	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DD	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-GM-A2DD	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DF	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DF	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DF	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A2DF	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DH	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DH	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DH	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-GM-A2DH	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DI	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DI	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DI	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A2DI	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DK	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-GM-A2DL	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-GM-A2DL	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-GM-A2DM	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DM	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DM	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A2DM	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DM	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-GM-A2DN	Taxol	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A2DN	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A2DN	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A2DN	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A2DN	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-GM-A2DO	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-GM-A3NW	Arimidex	Anastrozole	Hormone Therapy	Stable Disease
+TCGA-GM-A3NW	Fluorouracil	Fluorouracil	Chemotherapy	Stable Disease
+TCGA-GM-A3NW	Cytoxan	Cyclophosphamide	Chemotherapy	Stable Disease
+TCGA-GM-A3NW	Epirubicin	Epirubicin	Chemotherapy	Stable Disease
+TCGA-GM-A3NY	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-GM-A3XG	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A3XG	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A3XG	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-GM-A3XG	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A3XG	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-GM-A3XG	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-GM-A3XL	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A3XL	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-GM-A3XL	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A3XL	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A3XN	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-GM-A3XN	Fluorouracil	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A3XN	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-GM-A3XN	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A3XN	Tamoxifen	Tamoxifen	Hormone Therapy	Complete Response
+TCGA-GM-A3XN	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-GM-A4E0	Xeloda	Capecitabine	Chemotherapy	Complete Response
+TCGA-GM-A4E0	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-GM-A4E0	5-FU	Fluorouracil	Chemotherapy	Complete Response
+TCGA-GM-A4E0	Epirubicin	Epirubicin	Chemotherapy	Complete Response
+TCGA-GM-A4E0	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A4E0	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-GM-A5PV	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-GM-A5PV	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-GM-A5PX	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-GM-A5PX	Aromasin	Exemestane	Hormone Therapy	Complete Response
+TCGA-GM-A5PX	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-HN-A2NL	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-HN-A2NL	Doxorubicin	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-HN-A2OB	Fluorouracil	Fluorouracil	Chemotherapy	[Unknown]
+TCGA-HN-A2OB	Epirubicin	Epirubicin	Chemotherapy	[Unknown]
+TCGA-HN-A2OB	Cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-HN-A2OB	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-LD-A66U	Taxol	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-LD-A66U	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-LD-A66U	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-LD-A66U	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-LD-A74U	Taxotere	Docetaxel	Chemotherapy	Stable Disease
+TCGA-LD-A7W5	Taxotere	Docetaxel	Chemotherapy	Stable Disease
+TCGA-LD-A7W5	Cytoxan	Cyclophosphamide	Chemotherapy	[Not Applicable]
+TCGA-LD-A7W6	Letrozole	Letrozole	Chemotherapy	[Not Applicable]
+TCGA-LD-A9QF	Taxol	Paclitaxel	Chemotherapy	[Not Applicable]
+TCGA-LD-A9QF	Herceptin	Trastuzumab	Chemotherapy	[Not Applicable]
+TCGA-LL-A440	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A440	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-LL-A440	TAXOTERE	Docetaxel	Chemotherapy	Complete Response
+TCGA-LL-A441	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-LL-A441	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-LL-A442	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A50Y	ARIMIDEX	Anastrozole	Hormone Therapy	Complete Response
+TCGA-LL-A5YL	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-LL-A5YL	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-LL-A5YL	Paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-LL-A5YL	Herceptin	Trastuzumab	Chemotherapy	[Not Applicable]
+TCGA-LL-A5YL	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A5YM	letrozole	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A5YN	Carboplatin	Carboplatin	Chemotherapy	[Unknown]
+TCGA-LL-A5YN	Docetaxel	Docetaxel	Chemotherapy	[Unknown]
+TCGA-LL-A5YN	Trastuzumab	Trastuzumab	Chemotherapy	[Unknown]
+TCGA-LL-A5YN	tamoxifen citrate	Tamoxifen Citrate	Hormone Therapy	[Not Applicable]
+TCGA-LL-A5YO	TAXOTERE	Docetaxel	Chemotherapy	Complete Response
+TCGA-LL-A5YO	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-LL-A5YP	Cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-LL-A5YP	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-LL-A5YP	herceptin	Trastuzumab	Immunotherapy	[Unknown]
+TCGA-LL-A5YP	arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A6FP	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A6FP	Tamoxifen	Tamoxifen	Hormone Therapy	[Unknown]
+TCGA-LL-A6FR	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	[Unknown]
+TCGA-LL-A6FR	CYTOXAN	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-LL-A6FR	HERCEPTIN	Trastuzumab	Immunotherapy	[Unknown]
+TCGA-LL-A6FR	TAXOL	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-LL-A73Y	taxotere	Docetaxel	Chemotherapy	[Unknown]
+TCGA-LL-A73Y	cytoxan	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-LL-A73Z	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Clinical Progressive Disease
+TCGA-LL-A73Z	Cytoxan	Cyclophosphamide	Chemotherapy	Clinical Progressive Disease
+TCGA-LL-A73Z	taxol	Paclitaxel	Chemotherapy	Clinical Progressive Disease
+TCGA-LL-A73Z	faslodex	Fulvestrant	Hormone Therapy	Clinical Progressive Disease
+TCGA-LL-A740	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-LL-A740	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-LL-A740	TAXOL	Paclitaxel	Chemotherapy	Complete Response
+TCGA-LL-A7SZ	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-LL-A7SZ	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-LL-A7SZ	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-LL-A8F5	cyclophosphamide	Cyclophosphamide	Chemotherapy	[Unknown]
+TCGA-LL-A8F5	doxorubicin HCL	Doxorubicin	Chemotherapy	[Unknown]
+TCGA-LL-A8F5	paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-LL-A8F5	abraxane	Nab-paclitaxel	Chemotherapy	Complete Response
+TCGA-LL-A8F5	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LL-A9Q3	HERCEPTIN	Trastuzumab	Immunotherapy	Complete Response
+TCGA-LL-A9Q3	TAXOL	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-LL-A9Q3	ARIMIDEX	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-LQ-A4E4	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-MS-A51U	Paclitaxel	Paclitaxel	Chemotherapy	Stable Disease
+TCGA-MS-A51U	Cytoxan	Cyclophosphamide	Chemotherapy	Stable Disease
+TCGA-MS-A51U	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Stable Disease
+TCGA-OL-A5D7	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A5D7	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-OL-A5RU	cyclophosphamide	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A5RU	docetaxel	Docetaxel	Chemotherapy	Complete Response
+TCGA-OL-A5RV	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-OL-A5RV	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A5RV	Paclitaxel	Paclitaxel	Chemotherapy	Complete Response
+TCGA-OL-A5RW	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-OL-A5RW	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A5RW	TAXOL	Paclitaxel	Chemotherapy	Complete Response
+TCGA-OL-A5RZ	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-OL-A5RZ	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A5S0	TAXOL	Paclitaxel	Chemotherapy	Complete Response
+TCGA-OL-A5S0	HERCEPTIN	Trastuzumab	Hormone Therapy	Complete Response
+TCGA-OL-A66I	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-OL-A66I	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A66I	TAXOL	Paclitaxel	Chemotherapy	Complete Response
+TCGA-OL-A66O	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A66O	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-OL-A66P	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-OL-A66P	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-OL-A6VO	TAXOTERE	Docetaxel	Chemotherapy	Complete Response
+TCGA-OL-A6VO	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-PE-A5DD	Femara	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-PE-A5DE	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-PE-A5DE	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-PE-A5DE	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-PL-A8LZ	paclitaxel	Paclitaxel	Chemotherapy	[Unknown]
+TCGA-S3-A6ZF	taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-S3-A6ZF	Trastuzumab	Trastuzumab	Immunotherapy	Complete Response
+TCGA-S3-A6ZF	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-A6ZF	LETROZOLE	Letrozole	Hormone Therapy	[Not Applicable]
+TCGA-S3-A6ZF	ANASTROZOLE	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-S3-A6ZG	Doxorubicin	Doxorubicin	Chemotherapy	Complete Response
+TCGA-S3-A6ZG	Taxol	Paclitaxel	Hormone Therapy	Complete Response
+TCGA-S3-A6ZG	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-A6ZG	Anastrozole	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-S3-A6ZH	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-S3-A6ZH	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-A6ZH	Taxol	Paclitaxel	Chemotherapy	[Not Applicable]
+TCGA-S3-A6ZH	TAMOXIFEN	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-S3-AA0Z	DOXORUBICIN	Doxorubicin	Chemotherapy	Complete Response
+TCGA-S3-AA0Z	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-AA0Z	ANASTROZOLE	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-S3-AA10	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-AA10	TAXOTERE	Docetaxel	Chemotherapy	Complete Response
+TCGA-S3-AA10	ANASTROZOLE	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-S3-AA11	LETROZOLE	Letrozole	Hormone Therapy	Complete Response
+TCGA-S3-AA11	EXEMESTANE	Exemestane	Hormone Therapy	Complete Response
+TCGA-S3-AA11	ANASTROZOLE	Anastrozole	Hormone Therapy	Complete Response
+TCGA-S3-AA12	ANASTROZOLE	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-S3-AA14	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-S3-AA14	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-AA14	TRASTUZUMAB	Trastuzumab	Targeted Molecular therapy	[Not Applicable]
+TCGA-S3-AA14	TAXOL	Paclitaxel	Chemotherapy	[Not Applicable]
+TCGA-S3-AA15	ADRIAMYCIN	Doxorubicin Hydrochloride	Chemotherapy	Complete Response
+TCGA-S3-AA15	CYTOXAN	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-S3-AA15	TAXOL	Paclitaxel	Chemotherapy	Complete Response
+TCGA-S3-AA17	ANASTROZOLE	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-UL-AAZ6	Herceptin	Trastuzumab	Chemotherapy	[Not Applicable]
+TCGA-V7-A7HQ	letrozole	Letrozole	Hormone Therapy	Complete Response
+TCGA-W8-A86G	Arimidex	Anastrozole	Hormone Therapy	[Not Available]
+TCGA-WT-AB41	Arimidex	Anastrozole	Hormone Therapy	Complete Response
+TCGA-WT-AB41	Tamoxifen	Tamoxifen	Hormone Therapy	[Not Applicable]
+TCGA-WT-AB41	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-WT-AB41	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-WT-AB44	Arimidex	Anastrozole	Hormone Therapy	[Not Applicable]
+TCGA-XX-A899	Cytoxan	Cyclophosphamide	Chemotherapy	Complete Response
+TCGA-XX-A899	Taxotere	Docetaxel	Chemotherapy	Complete Response
+TCGA-Z7-A8R5	Adriamycin	Doxorubicin Hydrochloride	Chemotherapy	Stable Disease
+TCGA-Z7-A8R5	Cytoxan	Cyclophosphamide	Chemotherapy	Stable Disease
+TCGA-Z7-A8R5	Taxol	Paclitaxel	[Not Available]	Stable Disease
+TCGA-Z7-A8R6	Adriamycin	Doxorubicin Hydrochloride	[Not Available]	Complete Response
+TCGA-Z7-A8R6	Cytoxan	Cyclophosphamide	[Not Available]	Complete Response
+TCGA-Z7-A8R6	Taxol	Paclitaxel	[Not Available]	Complete Response
