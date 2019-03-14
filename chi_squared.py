@@ -30,14 +30,28 @@ patient_intersect = mutation.merge(drug, on="SampleID")
 # We want to create a dataframe where, for a particular gene and drug, each entry is the number of people of a particular genotype (either mutated or non-mutated) who had that particular drug reaction. Thus, the columns will correspond to the different reactions, and the rows will correspond to the genotype--one row for mutated, and one for non-mutated.
 
 # How are we going to get user input? Probably too complicated to make a Python package. Terminal input?
-gene = input("Please indicate the desired gene. (For options, pass 'options'): ").upper()
-while gene == 'OPTIONS':
-    print(patient_intersect["gene"]) # Need to figure out how to get rid of duplicates
-    gene = input("Please indicate the desired gene. (For options, pass 'options'): ").upper()
+gene = ''
 
-drug = input("Thank you. Please indicate the desired drug. (For options, pass 'options'): ").title()
-while drug == 'Options':
-    print(patient_intersect["PreferredDrugName"]) # Need to figure out how to get rid of duplicates
-    drug = input("Please indicate the desired drug. (For options, pass 'options'): ").title()
+while gene == '':
+    input_gene = input("Please enter gene for analysis: ").upper()
+    if input_gene in patient_intersect['gene'].values:
+        gene = input_gene
+    elif input_gene == "OPTIONS":
+        for gene_opt in sorted(set(patient_intersect['gene'].values)):
+            print(gene_opt)
+    else:
+        print("Gene not found in dataframe. Pass 'options' to view options.")
+
+drug = ''
+
+while drug == '':
+    input_drug = input("Please enter drug for analysis: ").title()
+    if input_drug in patient_intersect['PreferredDrugName'].values:
+        drug = input_drug
+    elif input_drug == "Options":
+        for drug_opt in sorted(set(patient_intersect['PreferredDrugName'].values)):
+            print(drug_opt)
+    else:
+        print("Drug not found in dataframe. Pass 'options' to view options.")
 
 print(gene, drug)
