@@ -16,8 +16,15 @@ drug = pd.read_csv("Drugs_Matched_Entries.tsv", sep="\t")
 mutation.rename(columns={"sample": "SampleID"}, inplace=True)
 
 
-# Reformat Sample IDs in mutation dataframe to match drug dataframe format. Drop additional "-01" at the end of every ID.
-def reformat_sample_ID(sample_ID): 
+def reformat_sample_ID(sample_ID: str) -> str: 
+    """Reformat Sample IDs in mutation dataframe to match drug dataframe format. Drop additional "-01" at the end of every ID.
+
+    Arguments:
+        sample_ID {str} -- 
+
+    Returns:
+        str -- reformatted sample ID
+    """
     new_ID = sample_ID[:12]
     return new_ID
 
