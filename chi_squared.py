@@ -26,32 +26,49 @@ mutation["SampleID"] = mutation["SampleID"].apply(reformat_sample_ID)
 
 # Get the intersection of the two dataframes on the SampleID
 patient_intersect = mutation.merge(drug, on="SampleID") 
+filtered_patient_intersect = patient_intersect[['SampleID', 'gene', 'PreferredDrugName', 'Response']].drop_duplicates()
 
-# We want to create a dataframe where, for a particular gene and drug, each entry is the number of people of a particular genotype (either mutated or non-mutated) who had that particular drug reaction. Thus, the columns will correspond to the different reactions, and the rows will correspond to the genotype--one row for mutated, and one for non-mutated.
+# We will choose the genes based on those that are most commonly mutated among the samples.
+mutated_gene = mutation[['SampleID', 'gene']].drop_duplicates() # Drop instances of multiple mutations in the same gene for one patient
+mutation_freq = mutated_gene['gene'].value_counts()
 
-# How are we going to get user input? Probably too complicated to make a Python package. Terminal input?
-gene = ''
+genes_to_test = list(mutation_freq.head(15).index)
+print(genes_to_test)
 
-while gene == '':
-    input_gene = input("Please enter gene for analysis: ").upper()
-    if input_gene in patient_intersect['gene'].values:
-        gene = input_gene
-    elif input_gene == "OPTIONS":
-        for gene_opt in sorted(set(patient_intersect['gene'].values)):
-            print(gene_opt)
-    else:
-        print("Gene not found in dataframe. Pass 'options' to view options.")
+# We will hard-code which drugs to look at.
+drugs_to_test = ['Tamoxifen Citrate']
 
-drug = ''
+# For each gene/drug combination, create our chi squared test dataframe. Put all the dataframes in a dictionary. One dict for each gene, and each key is a drug name, and the value is a list, the first element being the input dataframe, and the remaining elements being the results of the test
 
-while drug == '':
-    input_drug = input("Please enter drug for analysis: ").title()
-    if input_drug in patient_intersect['PreferredDrugName'].values:
-        drug = input_drug
-    elif input_drug == "Options":
-        for drug_opt in sorted(set(patient_intersect['PreferredDrugName'].values)):
-            print(drug_opt)
-    else:
-        print("Drug not found in dataframe. Pass 'options' to view options.")
+template_chi_dict = {}
+responses = patient_intersect.Response.unique()
+for response in responses:
+    template_chi_dict[response] = [0, 0]
 
-print(gene, drug)
+prep_dict = {}
+num_patients = len(patient_intersect.SampleID.unique())
+print(num_patients)
+
+for gene in genes_to_test:
+    if gene in prep_dict.keys():
+        raise ValueError('Duplicate genes in genes_to_test')
+    prep_dict[gene] = {}
+    for drug in drugs_to_test:
+        if drug in prep_dict[gene].keys():
+            raise ValueError('Duplicates in drugs_to_test')
+        chi_dict = template_chi_dict.copy()
+        for response in chi_dict.keys():
+            cases = filtered_patient_intersect.loc[(filtered_patient_intersect['gene'] == gene) & (filtered_patient_intersect['PreferredDrugName'] == drug) & (filtered_patient_intersect['Response'] == response)].drop_duplicates()
+            num_mutated = len(cases.index.values)
+            chi_dict[response][0] += num_mutated # These numbers are incorrect...
+            chi_dict[response][1] += num_patients - num_mutated
+        chi_dict['is_mutated'] = ['yes', 'no']
+        chi_df = pd.DataFrame(chi_dict)
+        chi_df.name = gene + ' with ' + drug
+        prep_dict[gene][drug] = chi_df
+
+for gene in prep_dict.keys():
+    print(gene)
+    for drug in prep_dict[gene].keys():
+        print(prep_dict[gene][drug].name)
+        print(prep_dict[gene][drug])
