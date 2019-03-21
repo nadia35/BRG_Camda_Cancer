@@ -40,16 +40,25 @@ def get_chi_dataframe(gene, drug, filtered_patient_intersect):
 
     for response in chi_dict.keys(): # For each response type
         # Pull all samples that have a mutation for that gene, and were given the specified drug, and had the specified response
-        cases = filtered_patient_intersect.loc[(filtered_patient_intersect['gene'] == gene) & (filtered_patient_intersect['PreferredDrugName'] == drug) & (filtered_patient_intersect['Response'] == response)].drop_duplicates() 
+        mutated_cases = filtered_patient_intersect.loc[(filtered_patient_intersect['gene'] == gene) & (filtered_patient_intersect['PreferredDrugName'] == drug) & (filtered_patient_intersect['Response'] == response)].drop_duplicates() 
+        num_mutated = len(mutated_cases.index.values) # Get the number of samples that match those criteria
 
-        num_mutated = len(cases.index.values) # Get the number of samples that match those criteria
+        # Pull all samples that don't have a mutation for that gene, that were given the specified drug, and had the specified response
+        non_mutated_cases = filtered_patient_intersect.loc[(filtered_patient_intersect['gene'] != gene) & (filtered_patient_intersect['PreferredDrugName'] == drug) & (filtered_patient_intersect['Response'] == response)].drop_duplicates() 
+        num_non_mutated = len(non_mutated_cases.index.values) # Get the number of samples that match those criteria
 
         chi_dict[response][0] = num_mutated 
-        chi_dict[response][1] += num_patients - num_mutated
+        chi_dict[response][1] = num_non_mutated
 
     chi_dict['mutated'] = ['yes', 'no'] # Add a column indicating what the row values indicate
     chi_df = pd.DataFrame(chi_dict)
-    chi_df.set_index('mutated')
+
+    # Reorder the columns to have the mutation indication first, and the rest in order
+    chi_columns = sorted(chi_df.columns.tolist())
+    chi_columns.remove('mutated')
+    chi_columns.insert(0, 'mutated')
+    chi_df = chi_df[chi_columns]
+
     chi_df.name = gene + ' with ' + drug # Name our dataframe
     return chi_df
 
@@ -57,11 +66,10 @@ def get_chi_dataframe(gene, drug, filtered_patient_intersect):
 mutation = pd.read_csv("mutation_curated_wustl.gz", sep="\t")
 drug = pd.read_csv("Drugs_Matched_Entries.tsv", sep="\t")
 
-
 # Rename "sample" column in mutation dataframe to "SampleID" to match drug dataframe
 mutation.rename(columns={"sample": "SampleID"}, inplace=True)
 
-# Reformat SampleIDs
+# Reformat SampleIDs in mutation dataframe
 mutation["SampleID"] = mutation["SampleID"].apply(reformat_sample_ID)
 
 # Get the intersection of the two dataframes on the SampleID
@@ -74,10 +82,14 @@ mutation_freq = mutated_gene['gene'].value_counts()
 
 genes_to_test = list(mutation_freq.head(15).index)
 
-# We will hard-code which drugs to look at.
-drugs_to_test = ['Tamoxifen Citrate']
+# Test all the drugs!
+drugs_to_test = sorted(patient_intersect['PreferredDrugName'].drop_duplicates().tolist())
 
-df = get_chi_dataframe(genes_to_test[0], drugs_to_test[0], filtered_patient_intersect)
+# Here is where we'd run our chi_squared test. For now we'll just print the dataframes. These loops take forever.
+for gene in genes_to_test:
+    for drug in drugs_to_test:
+        df = get_chi_dataframe(gene, drug, filtered_patient_intersect)
 
-print(df.name)
-print(df)
+        print(df.name)
+        print(df)
+        print('\n')
