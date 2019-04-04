@@ -85,11 +85,5 @@ genes_to_test = list(mutation_freq.head(15).index)
 # Let's test all the drugs!
 drugs_to_test = sorted(patient_intersect['PreferredDrugName'].drop_duplicates().tolist())
 
-# Here is where we'd run our chi_squared test. For now we'll just print the dataframes. These loops take forever.
-for gene in genes_to_test:
-    for drug in drugs_to_test:
-        df = get_chi_dataframe(gene, drug, filtered_patient_intersect)
-
-        print(df.name)
-        print(df)
-        print('\n')
+print(filtered_patient_intersect)
+print(drugs_to_test)
