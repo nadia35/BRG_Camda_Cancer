@@ -20,7 +20,7 @@ def reformat_sample_ID(sample_ID: str) -> str:
     new_ID = sample_ID[:12]
     return new_ID
 
-def get_chi_dataframe(gene, drug, filtered_patient_intersect):
+def get_chi_dataframe(gene: str, drug: str, filtered_patient_intersect):
     """Create a dataframe to run a chi squared test to see if there's a correlation between patient reaction to a drug, and whether a gene was mutated.
 
     Arguments:
